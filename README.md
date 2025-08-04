@@ -31,7 +31,7 @@ You can get a free API key from: [https://console.groq.com/keys](https://console
 ## ▶️ Running the App
 
 ```bash
-streamlit run src/main.py
+python -m streamlit run src/main.py
 ```
 
 Open your browser to: [http://localhost:8501](http://localhost:8501)
